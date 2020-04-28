@@ -19,6 +19,6 @@
 
 ## Schnittstellen
 
-Bank: Bezahlung der Medikamente.
-Kunden, zum Hausarzt, zum Rettungsdienst, zum Tierarzt, zum Krankenhaus: Anzeige über Verfügbarkeit und Bestellung von Medikamenten.
-evtl. zum ÖPNV: um Verkehrsmittel zur Abholung zu ermitteln.
+- Bank: Bezahlung der Medikamente.
+- Kunden, zum Hausarzt, zum Rettungsdienst, zum Tierarzt, zum Krankenhaus: Anzeige über Verfügbarkeit und Bestellung von Medikamenten.
+- evtl. zum ÖPNV: um Verkehrsmittel zur Abholung zu ermitteln.
